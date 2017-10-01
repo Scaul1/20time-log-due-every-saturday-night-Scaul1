@@ -8,5 +8,5 @@ Template for logging 20Time work and learning.  This file should be updated as a
 * This week I have nearly completed the intro to HTML and CSS tutorials and projects on Khan Academy so that I can learn how to design and create my webpage (I will finish this next week). I have also started brainstorming some of the main ideas and topics that I want my webpage to include and have looked into sources/ mentors. Finally, I pitched my idea on Google Classroom. 
 
 #### **Week 2 (Sep 25 - 29)**
-* _Objective:_Complete intro to HTML and create a long term plan for the project (i.e. general weekly objectives). Furthermore, I will keep brainstorming ideas of what information to include and how to arrange it.
-* _Completed:_This week I started a general website template to create my webpage on using Wix. I have also made an approximate long-term plan for my project and started brainstorming ideas of what information I would like to include on my website. Finally, I have made a list of mentors that I would like to reach out to. 
+* _Objective:_ Complete intro to HTML and create a long term plan for the project (i.e. general weekly objectives). Furthermore, I will keep brainstorming ideas of what information to include and how to arrange it.
+* _Completed:_ This week I started a general website template to create my webpage on using Wix. I have also made an approximate long-term plan for my project and started brainstorming ideas of what information I would like to include on my website. Finally, I have made a list of mentors that I would like to reach out to. 
