@@ -25,9 +25,10 @@ Template for logging 20Time work and learning.  This file should be updated as a
 
 #### **Week 6 (Oct 23 - 27)**
 * _Objective:_ Complete all written for injury recovery. Given that I will now have written all of my information and have an idea of what I want to know, I would like to contact my mentors for ideas and answers to any questions this week.  
+* _Completed:_ I have completed my injury recovery write-up. That being said, I have decided that I would like to add both an injury recovery and prevention section for the head and hip (previously I only had lower body information on ankles, legs and knees.) I have also started asking my team trainer some questions on their recommendations on prevention. 
 
 #### **Week 7 (Oct 30 - Nov 3)**
-* _Objective:_ I will complete my website design.  Furthermore, I will add the information that is given to me by my mentors. At this point, I will publish my website given that it contains enough information.
+* _Objective:_ I will complete my website design and perhaps contact another mentor. Furthermore, I will add the information that is given to me by my mentors. At this point, I will publish my website given that it contains enough information.
 
 #### **Week 7 (Nov 6 - Nov 10)**
 * _Objective:_ Add a calendar to my website that includes different timelines for each injury recovery. Create videos that demonstrate some of the exercises and stretches and upload them to my website. 
