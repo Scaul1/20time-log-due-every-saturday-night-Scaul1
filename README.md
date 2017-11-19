@@ -40,4 +40,4 @@ Template for logging 20Time work and learning.  This file should be updated as a
 * _Completed:_ I added all of the pictures and the majority of the videos that I took last week. My website is also now published. Finally, I discovered a new way for me to connect my project to computer science. I would like to try and use my work flow to code a picture of a calendar with the information on it that I want. I can then take a picture of the calendar that I've made with the recovery timelines and using html insert it on my website. 
 
 #### **Week 7 (Nov 20 - Nov 24)**
-* _Objective:_ Code the calendars with the different recovery timelines. 
+* _Objective:_ Code the calendars with the different recovery timelines. I would also like to investigate changing the links that are in my website using html and css to make them hyperlinks.
