@@ -34,12 +34,10 @@ Template for logging 20Time work and learning.  This file should be updated as a
 #### **Week 7 (Nov 6 - Nov 10)**
 * _Objective:_ Add a calendar to my website that includes different timelines for each injury recovery. Create videos that demonstrate some of the exercises and stretches and upload them to my website.
 * _Completed:_ This week I wanted to start adding a stronger connection to computer science into my project. I wrote my own html and used CSS to style 2 of my main pages (the main injury recovery and injury prevention). Due to this addition I did not get the chance to publish the site or create the videos or pictures. That being said, I finally found a calendar template online that I can edit to demonstrate different recovery periods. I plan on using this to make different calendars and take pictures of them that will be displayed on my webpage.  
-              -started inputting calendars
-              -took pictures
 
 #### **Week 7 (Nov 13 - Nov 17)**
 * _Objective:_ This week I want to make videos and input information from my mentors. I would also like to brainstorm other possible ways to incorporate computer science into my project. Furthermore, I intend on adding all of the pictures and hopefully the majority of the videos. Last but not least, I would like to do some more work on the calendars and publish the site.
+* _Completed:_ I added all of the pictures and the majority of the videos that I took last week. My website is also now published. Finally, I discovered a new way for me to connect my project to computer science. I would like to try and use my work flow to code a picture of a calendar with the information on it that I want. I can then take a picture of the calendar that I've made with the recovery timelines and using html insert it on my website. 
 
-#### **Week 7 (Nov 13 - Nov 17)**
-* _Objective:_ Add the remaining videos and screenshots of the calendars to the appropriate pages.
-* _Completed:_
+#### **Week 7 (Nov 20 - Nov 24)**
+* _Objective:_ Code the calendars with the different recovery timelines. 
