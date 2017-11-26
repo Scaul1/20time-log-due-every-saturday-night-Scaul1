@@ -41,3 +41,8 @@ Template for logging 20Time work and learning.  This file should be updated as a
 
 #### **Week 7 (Nov 20 - Nov 24)**
 * _Objective:_ Code the calendars with the different recovery timelines. I would also like to investigate changing the links that are in my website using html and css to make them hyperlinks.
+* _Completed:_ This week I added more pictures of things like my personal roller and braces. I also added more details to my text because I got some information from my soccer team's therapist. Another significant thing that I did this week was learn how to use powershell and node to code a picture onto my browser. I would like to start using these to attempt to code calendars that I can take a picture of and insert on my blog. Last but not least, I attempted to use html to imbed my links to other websites and incorporate hyperlinks but was not successful. My links did not take me to the correct webpages, so I am still trying to figure this out.
+
+#### **Week 7 (Nov 27 - Dec 1)**
+* _Objective:_ There are two more videos that I would like to make to enhance my ankle prevention and recovery. I would also like to try once again to figure out how to make hyperlinks and further investigate coding my calendars instead of using pre-made templates.
+
