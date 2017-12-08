@@ -37,7 +37,7 @@ Template for logging 20Time work and learning.  This file should be updated as a
 
 #### **Week 7 (Nov 13 - Nov 17)**
 * _Objective:_ This week I want to make videos and input information from my mentors. I would also like to brainstorm other possible ways to incorporate computer science into my project. Furthermore, I intend on adding all of the pictures and hopefully the majority of the videos. Last but not least, I would like to do some more work on the calendars and publish the site.
-* _Completed:_ I added all of the pictures and the majority of the videos that I took last week. My website is also now published. Finally, I discovered a new way for me to connect my project to computer science. I would like to try and use my work flow to code a picture of a calendar with the information on it that I want. I can then take a picture of the calendar that I've made with the recovery timelines and using html insert it on my website. 
+* _Completed:_ I added all of the pictures and the majority of the videos that I took last week. My website is also now published. Finally, I discovered a new way for me to connect my project to computer science. I would like to try and use my work flow to code a picture of a calendar with the information on it that I want. I can then take a picture of the calendar that I've made with the recovery timelines and using html insert it on my website.
 
 #### **Week 7 (Nov 20 - Nov 24)**
 * _Objective:_ Code the calendars with the different recovery timelines. I would also like to investigate changing the links that are in my website using html and css to make them hyperlinks.
@@ -45,4 +45,11 @@ Template for logging 20Time work and learning.  This file should be updated as a
 
 #### **Week 7 (Nov 27 - Dec 1)**
 * _Objective:_ There are two more videos that I would like to make to enhance my ankle prevention and recovery. I would also like to try once again to figure out how to make hyperlinks and further investigate coding my calendars instead of using pre-made templates.
+* _Completed:_ I completed the additional write up on ankle injuries and have created an outline that includes what I want to include in  my videos. I did not have time to work on hyperlinks this week, however, I did continue to learn about my workflow to create my own calendars.
 
+#### **Week 7 (Nov 4 - Dec 8)**
+* _Objective:_ This week I would like to use my workflow to actually start coding a calendar outline.
+* _Completed:_ Using atom (an index.html and a .js file), I have started creating my calendar outline. Once I have got one calendar I can simply copy the code to make various ones and edit each individual calendar to create injury-specific recovery times. I also went back and read some of the html articles on Khan Academy to try and refresh my memory and understand how to incorporate hyperlinks. 
+
+#### **Week 7 (Nov 11 - Dec 15)**
+* _Objective:_ This week I would like to complete my contacts and references pages so that I can provide readers with more information on myself, where I got some of my facts, and where they can go to get more information. I would also like to investigate completing a survey with players that I know to gather feedback on my webpage after it's completed. Finally I would like to put some more work into creating hyperlinks now that I have a better understanding of html.   
