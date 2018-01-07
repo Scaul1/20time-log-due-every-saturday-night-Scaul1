@@ -1,6 +1,8 @@
 # 20 Time Project
 Template for logging 20Time work and learning.  This file should be updated as a log file for the project, and any data files (if necessary) should be found within the repository.  
 
+Here is the link to my website: https://scaul1.wixsite.com/healthysoccer
+
 ## **Topic (Elevator Pitch)**
 * I will be creating a website to help female soccer athletes play their sport without injuries. My webpage will provide them free information with regards to injury prevention and recovery to get them back on the field as soon as possible. If I have extra time I would also like to add more sections to the website, such as drills that I recommend or links to instructional videos. To accomplish this I will be using HTML and CSS styling, as well as JS to make the website more appealing.  
 
